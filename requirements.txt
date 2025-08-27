@@ -1,0 +1,10 @@
+undetected-chromedriver>=3.5.0
+selenium>=4.15.0
+pytrends>=4.9.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+feedparser>=6.0.10
+google-api-python-client>=2.100.0
+google-generativeai>=0.3.0
+lxml>=4.9.0
+fake-useragent>=1.4.0
