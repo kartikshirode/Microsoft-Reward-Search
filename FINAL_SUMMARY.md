@@ -10,9 +10,9 @@
 ### 2. **Google News Integration** ✅ 
 - **Fresh Headlines**: Real-time Google News RSS feeds
 - **Multiple Categories**: Technology, Sports, Business, India News
-- **Auto-Cleaning**: Removes source attributions and duplicates
-- **Never Repeats**: Always fresh content every run
-
+- **Auto-Cleaning**: Removes source attrib
+utions and duplicates
+- **Never Repeats**: Always fresh content 
 ### 3. **Gemini AI Integration** ✅
 - **AI-Generated Topics**: Unique search terms every time
 - **Contextual**: India-focused, current trends
